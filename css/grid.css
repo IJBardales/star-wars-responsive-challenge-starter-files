@@ -43,6 +43,13 @@
 }	
 
 
+
+/* Mobile defaults */
+.col_for_3_images, 
+.all_12_cols {
+  width: 100%;
+}
+
 /* Non-mobile, grid */
 @media only screen and (min-width: 640px) {
 	.col_for_3_images {
