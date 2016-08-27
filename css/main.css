@@ -21,14 +21,22 @@ header h1 {
 	margin-bottom: 0;
 }
 
-.character_info {
+header p {
+	margin-top: 0.5em;
+}
+
+.character_bio {
 	padding: 20px;
 }
  
-.character_info h1 {
+.character_bio h1 {
 	margin-bottom: 0;
 	margin-top: 0;
 } 
+
+.character_bio p {
+	margin: 0.5em 0;
+}
 
 
 
